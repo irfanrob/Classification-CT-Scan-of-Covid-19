@@ -25,6 +25,8 @@ The result of the project can be seen here : https://drive.google.com/drive/fold
 
 I also set the checkpoint for each training, so the best weight can be saved. With the best weight that I’ve got, I load it to the application prototype that I built so this application could detect the CT-Scan images whether is it Covid-19 or normal.
 
+![application](https://user-images.githubusercontent.com/75148994/132941637-6dda2e6c-3300-4e9a-ae4e-fa2fa82bd60a.PNG)
+
 The book and journal unfortunately only available in Indonesian language, but the abstract of the book and journal is available in English language. The book and journal can be accessed below :
 
 Book : https://drive.google.com/file/d/17dIDVaBaXrqnw1fjVp9M6_c92j_S2jau/view?usp=sharing
